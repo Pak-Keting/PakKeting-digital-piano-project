@@ -5,4 +5,28 @@ I've spend quite some time finding the resources for the Grand Feel (III generat
 
 If you also looking for the resources, especially to reference the Grand Feel dimension, feel free to use the pictures inside ./researches folder. I've tried my best to obtain the highest resolution of all generation of Grand Feel action pictures, hopefully it'll be easier to take accurate measurement based on it.
 
+
+
+## Resources links
+
+### [PianoClack Forum](https://pianoclack.com/forum)
+I just find out there's a piano forum that gathers all the diy piano enthusiast. I didn't know the existance of it. Most stuff here are converting grand piano action into digital. It can get pretty deep too.
+
+* [A DIY hybrid piano without ADCs (purely digital sensors)](https://pianoclack.com/forum/d/1437-a-diy-hybrid-piano-without-adcs-purely-digital-sensors)
+
+
+### Github projects
+
+* [QPS (uses proximity sensor with ADC](https://github.com/stem-piano/sensor-systems/tree/main/qps)
+
+
+### Kawai digital piano action
+
+* (youtube) [Kawai Grand Feel | Wooden-key Digital Piano Keyboard Actions - Explanation Video](https://www.youtube.com/watch?v=KjTLun_j08Q)
+* (youtube) [Kawai Digital Piano Action Comparison (Key Touch, Weighted Keys)](https://www.youtube.com/watch?v=H0RR06XsGPM)
+* (youtube) [Kawai Grand Feel II vs. Grand Feel III (Digital Piano Action Comparison)](https://www.youtube.com/watch?v=rJEAKI2jBLU)
+* (forum) [Could someone tell me difference of GF II vs GF?](https://forum.pianoworld.com/ubbthreads.php/topics/2397066/1.html)
+
+
+
 ***...TO BE CONTINUE...***
