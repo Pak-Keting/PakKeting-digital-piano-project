@@ -20,13 +20,15 @@ I just find out there's a piano forum that gathers all the diy piano enthusiast.
 * [QPS (uses proximity sensor with ADC](https://github.com/stem-piano/sensor-systems/tree/main/qps)
 
 
-### Kawai digital piano action
+### Digital piano action
 
 * (youtube) [Kawai Grand Feel | Wooden-key Digital Piano Keyboard Actions - Explanation Video](https://www.youtube.com/watch?v=KjTLun_j08Q)
 * (youtube) [Kawai Digital Piano Action Comparison (Key Touch, Weighted Keys)](https://www.youtube.com/watch?v=H0RR06XsGPM)
 * (youtube) [Kawai Grand Feel II vs. Grand Feel III (Digital Piano Action Comparison)](https://www.youtube.com/watch?v=rJEAKI2jBLU)
 * (forum) [Could someone tell me difference of GF II vs GF?](https://forum.pianoworld.com/ubbthreads.php/topics/2397066/1.html)
+* (youtube) [DIY Digital piano action prototype (read description)](https://www.youtube.com/watch?v=daE2-Ujd7A0)
 
 
-
+## Note for my future self
+* I originally wanted to use "whole" wood, but I think it's better to use plywood because it's much more resilient to warping. I measured *Grand Feel II* key on inkscape, and it's about 23-24mm. I'll be going with **25mm plywood**, since that is the common thickness available.
 ***...TO BE CONTINUE...***
